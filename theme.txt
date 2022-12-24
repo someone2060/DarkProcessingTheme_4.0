@@ -6,12 +6,12 @@
 
 # STATUS
 # Status messages (1 file added to sketch, errors, etc
+status.notice.bgcolor =  #111111
 status.notice.fgcolor =  #dddddd
-status.notice.bgcolor =  #404040
+status.error.bgcolor =   #C40E0E
 status.error.fgcolor =   #dddddd
-status.error.bgcolor =   #777777
-status.warning.bgcolor = #dddddd
-status.warning.fgcolor = #dddddd
+status.warning.bgcolor = #bdb24b
+status.warning.fgcolor = #333333
 status.url.fgcolor =     #cccccc
 status.font = processing.sans,plain,13
 # For the clipboard icon, needs to be a little larger on macOS
@@ -132,6 +132,12 @@ editor.gutter.line.highlight.color = #555555
 editor.bracket.highlight = true
 editor.bracket.highlight.color = #777777
 
+# scrollbar
+editor.scrollbar.color=#1A1A1A
+editor.scrollbar.thumb.enabled.color=#282828
+editor.scrollbar.thumb.pressed.color=#4a4a4a
+editor.scrollbar.thumb.rollover.color=#383838
+
 
 
 # ERRORS
@@ -185,7 +191,7 @@ editor.error.underline.color = #C40E0E
 # squiggly line underneath warnings
 editor.warning.underline.color = #ffc30e
 # lines next to the scrollbar showing where errors are located
-editor.column.error.color = #9F1613
+editor.column.error.color = #C40E0E
 editor.column.warning.color = #ffc30e
 
 breakpoint.bgcolor = #f0f0f0
