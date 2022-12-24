@@ -126,6 +126,7 @@ editor.gradient.bottom = #111111
 editor.gutter.text.font = processing.mono,bold,12
 editor.gutter.bgcolor =              #111111
 editor.gutter.text.color =           #cccccc
+editor.gutter.highlight.color =      #003666
 editor.gutter.line.highlight.color = #555555
 
 # bracket/brace highlighting
