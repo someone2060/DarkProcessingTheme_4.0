@@ -221,20 +221,39 @@ tree.font = processing.sans,plain,12
 # processing/app/src/processing/app/syntax/Token.java
 
 # monokai
-editor.token.function1.style=#3a99ab,plain
-editor.token.function2.style=#3a99ab,plain
-editor.token.function3.style=#c41655,plain
-editor.token.function4.style=#77a619,bold
-editor.token.keyword1.style=#3a99ab,bold
-editor.token.keyword2.style=#3a99ab,bold
-editor.token.keyword3.style=#3a99ab,bold
-editor.token.keyword4.style=#c41655,plain
-editor.token.keyword5.style=#3a99ab,bold
-editor.token.keyword6.style=#c41655,plain
-editor.token.literal1.style=#bdb24b,plain
-editor.token.literal2.style=#744bbd,plain
-editor.token.operator.style=#c41655,plain
-editor.token.label.style=#999999,bold
-editor.token.comment1.style=#53943b,plain
-editor.token.comment2.style=#53943b,plain
-editor.token.invalid.style=#c41655,bold#
+#editor.token.function1.style=#3a99ab,plain
+#editor.token.function2.style=#3a99ab,plain
+#editor.token.function3.style=#c41655,plain
+#editor.token.function4.style=#77a619,bold
+#editor.token.keyword1.style=#3a99ab,bold
+#editor.token.keyword2.style=#3a99ab,bold
+#editor.token.keyword3.style=#3a99ab,bold
+#editor.token.keyword4.style=#c41655,plain
+#editor.token.keyword5.style=#3a99ab,bold
+#editor.token.keyword6.style=#c41655,plain
+#editor.token.literal1.style=#bdb24b,plain
+#editor.token.literal2.style=#744bbd,plain
+#editor.token.operator.style=#c41655,plain
+#editor.token.label.style=#999999,bold
+#editor.token.comment1.style=#53943b,plain
+#editor.token.comment2.style=#53943b,plain
+#editor.token.invalid.style=#c41655,bold
+
+# darcula
+editor.token.comment1.style=#808080,plain
+editor.token.comment2.style=#808080,plain
+editor.token.function1.style=#8C85C8,plain
+editor.token.function2.style=#6C95EB,plain
+editor.token.function3.style=#CC7832,plain
+editor.token.function4.style=#FBC469,plain
+editor.token.invalid.style=#666666,bold
+editor.token.keyword1.style=#CC7832,plain
+editor.token.keyword2.style=#CC7832,plain
+editor.token.keyword3.style=#CC7832,plain
+editor.token.keyword4.style=#d94a7a,plain
+editor.token.keyword5.style=#C191FF,plain
+editor.token.keyword6.style=#CC7832,plain
+editor.token.label.style=#0000FF,bold
+editor.token.literal1.style=#6A8759,plain
+editor.token.literal2.style=#C191FF,plain
+editor.token.operator.style=#00FF00,plain
